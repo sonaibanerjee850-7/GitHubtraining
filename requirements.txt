@@ -1,0 +1,7 @@
+this a chat application
+
+requirements 
+emoji
+type option 
+colour 
+vibrant
